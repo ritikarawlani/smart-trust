@@ -16,8 +16,9 @@ jobs:
       file_exists: ${{ steps.checkfile.outputs.exists }}
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-
+        uses: actions/checkout@v3
+        with:
+          lfs: true
       - name: Check for publication-request.json
         id: checkfile
         run: |
