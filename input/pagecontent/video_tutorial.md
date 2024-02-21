@@ -2,11 +2,11 @@ Welcome to our video tutorial series, designed to guide you through the onboardi
 
 [1.1.full-video(SCA)v2](https://media.githubusercontent.com/media/ritikarawlani/smart-trust/main/video-tutorials/1.1.full-video(SCA)v2.mp4)
 
-<video src="https://media.githubusercontent.com/media/ritikarawlani/smart-trust/main/video-tutorials/1.1.full-video(SCA)v2.mp4"></video>
+<video src="https://worldhealthorg.sharepoint.com/sites/TNGProduction/_layouts/15/stream.aspx?id=%2Fsites%2FTNGProduction%2FShared%20Documents%2FVideo%20Tutorials%2F1%2E1%2Efull%2Dvideo%28SCA%29v2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview"></video>
  
 [test](https://github.com/WorldHealthOrganization/smart-trust/releases/download/v1.1.1/1.1.full-video.SCA.v2.mp4)
 
-<video src="https://github.com/WorldHealthOrganization/smart-trust/releases/download/v1.1.1/1.1.full-video.SCA.v2.mp4"></video>
+
 
 [1.1.full-video(TLS)v2.mp4](1.1.full-video(TLS)v2.mp4)
 
